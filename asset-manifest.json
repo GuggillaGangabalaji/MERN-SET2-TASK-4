@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MERN-SET2-TASK-4/static/css/main.073c9b0a.css",
+    "main.js": "/MERN-SET2-TASK-4/static/js/main.9807f5a7.js",
+    "static/js/787.32d91862.chunk.js": "/MERN-SET2-TASK-4/static/js/787.32d91862.chunk.js",
+    "index.html": "/MERN-SET2-TASK-4/index.html",
+    "main.073c9b0a.css.map": "/MERN-SET2-TASK-4/static/css/main.073c9b0a.css.map",
+    "main.9807f5a7.js.map": "/MERN-SET2-TASK-4/static/js/main.9807f5a7.js.map",
+    "787.32d91862.chunk.js.map": "/MERN-SET2-TASK-4/static/js/787.32d91862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9807f5a7.js"
+  ]
+}
